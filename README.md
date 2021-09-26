@@ -5,7 +5,7 @@ __A GANstant Win Challenge Entry for ShellHacks 2021 using Unity 3D__
 * Ricardo Colom
 * Julian Lopez
 * Johnny Llerena
-* Sage Pages
+* Sage A Pages
 
 # Instructions
 ![TitleImage](https://cdn.discordapp.com/attachments/890408497781538829/891638190371385394/Title.png)
