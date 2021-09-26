@@ -1,11 +1,16 @@
 # InstaSlot
-__A GANstant Win Challenge Entry for ShellHacks 2021 using Unity 3D__
+__A GANstant Win Challenge Entry for ShellHacks 2021 using Unity 3D__.
 
 # Team Members
 * Ricardo Colom
-* Julian F Lopez
+* Julian F. Lopez
 * Johnny Llerena
-* Sage A Pages
+* Sage A. Pages
+
+# Download
+A Windows download of the current version, __v0.1__, can be found [here](https://drive.google.com/file/d/1WIUfmsvjmJk9GGuhSi-xkfmHY2pXtcR4/view?usp=sharing).
+
+You can also play in your browser [here](https://play.unity.com/mg/other/instaslot).
 
 # Instructions
 ![TitleImage](https://cdn.discordapp.com/attachments/890408497781538829/891638190371385394/Title.png)
@@ -58,6 +63,6 @@ Skins change the background, look of the slot cabinet, start sound effects, and 
 
 # Other Information
 
-This game was done in approximately 36 hours as part of the ShellHacks 2021 Hackathon. We hope that with more time we will be able to polish the game and make it as good as we can. Also, here's another look at the custom ShellHacks 3D Model we designed
+This game was done in approximately 36 hours as part of the ShellHacks 2021 Hackathon. We hope that with more time we will be able to polish the game and make it as good as we can. Also, here's another look at the custom ShellHacks 3D Model we designed.
 
 ![ShellHacks Model](https://i.imgur.com/isohHGA.png)
