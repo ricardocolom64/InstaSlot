@@ -8,8 +8,11 @@ __A GANstant Win Challenge Entry for ShellHacks 2021__
 * Sage Pages
 
 # Instructions
-Launching the game takes you to the Title Screen, by pressing the Play button you are then taken to the Main Screen, where gameplay takes place.
+![TitleImage](https://cdn.discordapp.com/attachments/890408497781538829/891638190371385394/Title.png)
 
+Launching the game takes you to the Title Screen. By pressing the Play button you are then taken to the Main Screen, where gameplay takes place.
+
+![MainGame1](https://cdn.discordapp.com/attachments/890408497781538829/891638184352546866/Default_Skin.png)
 Briefly, the game loop revolves around pressing the start button next to the lever to begin rolling the three slot columns, and by pressing stop the user can choose when to begin the slow down of the slots.
 
 The user is given 1000 currency at the start, and they can test their luck by betting their currency on a spin.
@@ -32,6 +35,8 @@ A bonus item can take the place of any other item except a special item (think o
 Managing to land on 3 Lucky 7's grants you a __Lucky 7 Win__, a very high multiplier on your previous bet.
 
 A special item is exceedingly rare, though you only need 1 of them in any of the slots to grant you a __Special Win__.
+
+If you manage to land right in between two rows of fruits, you will be granted a __Free Spin__.
 
 Any other scenario would grant you a __Loss__, and you lose the currency you placed to bet.
 
