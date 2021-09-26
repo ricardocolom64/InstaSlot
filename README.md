@@ -3,7 +3,7 @@ __A GANstant Win Challenge Entry for ShellHacks 2021 using Unity 3D__
 
 # Team Members
 * Ricardo Colom
-* Julian Lopez
+* Julian F Lopez
 * Johnny Llerena
 * Sage A Pages
 
