@@ -1,5 +1,5 @@
 # InstaSlot
-__A GANstant Win Challenge Entry for ShellHacks 2021__
+__A GANstant Win Challenge Entry for ShellHacks 2021 using Unity 3D__
 
 # Team Members
 * Ricardo Colom
@@ -52,4 +52,12 @@ These skins are:
   * Christmas
   * Halloween
 
-Skins change the background, look of the slot cabinet, start sound effects, and the look of the special item. The special item can be a __Star, Shell, Christmas Present, or Jack o' Lantern__ depending on the current game skin.
+Skins change the background, look of the slot cabinet, start sound effects, and the look of the special item. The special item can be a __Star, a ShellHacks Shell, Christmas Present, or Jack o' Lantern__ depending on the current game skin.
+
+![TheItems](https://i.imgur.com/VAG0S5L.png)
+
+# Other Information
+
+This game was done in approximately 36 hours as part of the ShellHacks 2021 Hackathon. We hope that with more time we will be able to polish the game and make it as good as we can. Also, here's another look at the custom ShellHacks 3D Model we designed
+
+![ShellHacks Model](https://i.imgur.com/isohHGA.png)
